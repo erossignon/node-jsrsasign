@@ -1,5 +1,5 @@
 {
-  "name": "node-jsrasign",
+  "name": "node-jsrs!asign",
   "version": "0.0.4",
   "description": "pure JavaScript cryptographic library(jsrsasign) and JSON Web Token (JWT) and JSON Web Signature (JWS) library (jsjws) bundle",
   "main": "main.js",
