@@ -66,6 +66,7 @@ vm.include("./lib/jsrsasign/ext/sha512.js");
 vm.include("./lib/jsrsasign/ext/md5.js");
 vm.include("./lib/jsrsasign/ext/ripemd160.js");
 vm.include("./lib/jsrsasign/ext/ec.js");
+vm.include("./lib/jsrsasign/ext/enc-base64.js");
 vm.include("./lib/jsrsasign/base64x-1.1.js");
 vm.include("./lib/jsrsasign/x509-1.1.js");
 vm.include("./lib/jsrsasign/asn1-1.0.js");
