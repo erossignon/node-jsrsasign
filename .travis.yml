@@ -5,7 +5,7 @@ node_js:
 
 before_script:
   - npm install -g istanbul coveralls
-  - npm install -g mocha
+  - npm install mocha
   - npm install -g codeclimate-test-reporter
   - npm install
 
