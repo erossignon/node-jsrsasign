@@ -76,6 +76,7 @@ vm.include("./lib/jsrsasign/asn1hex-1.1.js");
 vm.include("./lib/jsrsasign/asn1tsp-1.0.js");
 vm.include("./lib/jsrsasign/asn1x509-1.0.js");
 vm.include("./lib/jsrsasign/rsasign-1.2.js");
+vm.include("./lib/jsrsasign/rsapem-1.1.js");
 vm.include("./lib/jsrsasign/keyutil-1.0.js");
 vm.include("./lib/jsrsasign/ecdsa-modified-1.0.js");
 vm.include("./lib/jsrsasign/ecparam-1.0.js");
